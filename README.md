@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/yaoGJwi.gif" alt="Glowing Galaxy Header">
+  <img src="https://i.imgur.com/yaoGJwi.gif" alt="Glowing Galaxy Header" width="100%" height="200">
 </div>
 
 # 👋 Welcome to my GitHub profile!
