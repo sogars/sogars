@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://i.imgur.com/yaoGJwi.gif" alt="Glowing Galaxy Header" width="100%" height="200">
+  <img src="https://i.imgur.com/7Gsji9a.gif" alt="Glowing Galaxy Header" width="100%" height="200">
 </div>
 
-# 😊 Welcome to my GitHub profile!
+# 😊 Welcome to my profile
 
-## 🔒 Information Security Professional | Ethical Hacking | Python Developing
+## 🔒 Information Security Professional | Ethical hacking | Python Developing
 
 Skills:
 
@@ -16,9 +16,9 @@ Compliance & Incident Response: GDPR, Audit, Incident Response, Log Analysis
 
 Projects:
 
-- Sandbox Analysis: Conduct sandbox analysis to ensure host machine safety.
-- Ethical Hacking: Identify vulnerabilities in web applications and networks.
-- Automated File Processing: Develop scripts for efficient processing of large file volumes.
+- Sandbox Analysis: Conducted sandbox analysis to ensure host machine safety.
+- Ethical Hacking: Identified vulnerabilities in web applications and networks.
+- Automated File Processing: Developed scripts for efficient processing of large file volumes.
 
 If you're interested in collaborating or have any questions, please feel free to reach out.
 
