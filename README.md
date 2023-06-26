@@ -16,9 +16,9 @@ Compliance & Incident Response: GDPR, Audit, Incident Response, Log Analysis
 
 Projects:
 
-- Sandbox Analysis: Conducted sandbox analysis to ensure host machine safety.
-- Ethical Hacking: Identified vulnerabilities in web applications and networks.
-- Automated File Processing: Developed scripts for efficient processing of large file volumes.
+- Sandbox Analysis: Conduct sandbox analysis to ensure host machine safety.
+- Ethical Hacking: Identify vulnerabilities in web applications and networks.
+- Automated File Processing: Develop scripts for efficient processing of large file volumes.
 
 If you're interested in collaborating or have any questions, please feel free to reach out.
 
