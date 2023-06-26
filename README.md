@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://i.imgur.com/7Gsji9a.gif" alt="Glowing Galaxy Header" width="100%" height="200">
+  <img src="https://imgur.com/7Gsji9a" alt="Glowing Galaxy Header" width="100%" height="200">
 </div>
 
-# 👋 Welcome to my GitHub profile!
+# 😊 Welcome to my GitHub profile! This is simply my learning/ practice space. 
 
-## 🔒 Cybersecurity Professional | Ethical Hacker | Python Developer
+## 🔒 Information Security Professional | Ethical hacking | Python Developing
 
 Skills:
 
@@ -20,6 +20,6 @@ Projects:
 - Ethical Hacking: Identified vulnerabilities in web applications and networks.
 - Automated File Processing: Developed scripts for efficient processing of large file volumes.
 
-If you're interested in collaborating or have any questions, please feel free to reach out.
+If you're interested in collaborating or have any questions/tips,  feel free to reach out.
 
-😊
+
