@@ -1,16 +1,25 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://tenor.com/view/stars-space-outer-space-galaxy-gif-17566043" alt="Glowing Galaxy Header">
+</div>
 
-<!--
-**sogars/sogars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🔒 Cybersecurity Professional | Ethical Hacker | Python Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills:
+
+- Cybersecurity: XDR, EDR, MDR, SIEM, IDS/IDPS, Threat Intelligence, NIST Framework
+- Tools & Platforms: CrowdStrike Falcon, Splunk, OSINT Tools, Burp Suite, AWS
+- Programming & Scripting: Python, SQL, Bash, API Interactions
+- Networking & Security: Firewalls, Proxy Tools, Network Monitoring, Data Loss Prevention
+- Compliance & Incident Response: GDPR, Audit, Incident Response, Log Analysis
+
+### Projects:
+
+- Sandbox Analysis: Conducted sandbox analysis to ensure host machine safety.
+- Ethical Hacking: Identified vulnerabilities in web applications and networks.
+- Automated File Processing: Developed scripts for efficient processing of large file volumes.
+
+If you're interested in collaborating or have any questions, please feel free to reach out.
+
+😊
