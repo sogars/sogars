@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://i.imgur.com/7Gsji9a.gif" alt="Glowing Galaxy Header" width="100%" height="200">
+  <img src="https://imgur.com/yaoGJwi" alt="Glowing Galaxy Header" width="100%" height="200">
 </div>
 
 # 😊 Welcome to my GitHub profile!
 
-## 🔒 Cybersecurity Professional | Ethical Hacker | Python Developer
+## 🔒 Cybersecurity Professional | Ethical Hacking | Python Developer
 
 Skills:
 
