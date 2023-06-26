@@ -2,9 +2,9 @@
   <img src="https://i.imgur.com/7Gsji9a.gif" alt="Glowing Galaxy Header" width="100%" height="200">
 </div>
 
-# 😊 Welcome to my profile
+# 👋 Welcome to my GitHub profile!
 
-## 🔒 Information Security Professional | Ethical hacking | Python Developing
+## 🔒 Cybersecurity Professional | Ethical Hacker | Python Developer
 
 Skills:
 
@@ -22,4 +22,4 @@ Projects:
 
 If you're interested in collaborating or have any questions, please feel free to reach out.
 
-
+😊
