@@ -2,13 +2,13 @@
   <img src="https://i.imgur.com/yaoGJwi.gif" alt="Glowing Galaxy Header" width="100%" height="200">
 </div>
 
-# 👋 Welcome to my GitHub profile! This space is for learning and practice. 
+# 🌻🌼 Welcome to my GitHub profile! I use this space for learning & practice 🦄 
 
-## 🔒 Information Security Professional | Ethical Hacking | Python Developing
+## 🔒 Information Security | Ethical Hacking | Python | XSOAR 
 
 Skills:
 
-Cybersecurity: XDR, EDR, MDR, SIEM, IDS/IDPS, Threat Intelligence, NIST Framework
+Cybersecurity: XDR, EDR, MDR, SIEM, IDS/IDPS, Threat Intelligence, NIST Framework, OSINT, Audit 
 Tools & Platforms: CrowdStrike Falcon, Splunk, OSINT Tools, Burp Suite, AWS
 Programming & Scripting: Python, SQL, Bash, API Interactions
 Networking & Security: Firewalls, Proxy Tools, Network Monitoring, Data Loss Prevention
@@ -16,10 +16,8 @@ Compliance & Incident Response: GDPR, Audit, Incident Response, Log Analysis
 
 Projects:
 
-- Sandbox Analysis: Conducted sandbox analysis to ensure host machine safety.
-- Ethical Hacking: Identified vulnerabilities in web applications and networks.
-- Automated File Processing: Developed scripts for efficient processing of large file volumes.
+- Created databases for open source intelligence 
+- Identified vulnerabilities in web applications and networks.
+- Ran scripts for to scrape web and process large file volumes.
 
-If you're interested in collaborating or have any questions, please feel free to reach out.
 
-😊
