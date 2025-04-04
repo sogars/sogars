@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.gifdb.com/anime-sky-hand-pretending-to-catch-falling-star-zcy5nn8zp5jqedns.gif" alt="Catching Falling Star" width="100%" height="200">
+  <img src="https://i.imgur.com/SX3V2Er.gif" alt="Catching Falling Star" width="100%" height="200">
 </div>
 
 # 🌟 welcome to my GitHub ^_^
