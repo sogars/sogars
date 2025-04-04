@@ -2,10 +2,14 @@
   <img src="https://media.gifdb.com/anime-sky-hand-pretending-to-catch-falling-star-zcy5nn8zp5jqedns.gif" alt="Catching Falling Star" width="100%" height="200">
 </div>
 
-# 🌠 welcome to my GitHub ^_^
-This is a space for cybersecurity engineering, open-source threat detection, and research exploration. Always open to collaboration.
+# 🌟 welcome to my GitHub ^_^
 
-## 🛰️ Threat Detection Engineering, geopolitical risk analysis 🌍, SOAR + security automation, OSINT + threat research
+This space is for cybersecurity engineering, open-source threat intelligence, and research + exploration  
+I am always open to collaboration across galaxies
 
+my background:🛸 Threat Detection Engineering | Geopolitical Risk | SOAR + Security Automation| 🛰 OSINT + threat research|
 
-projects here combine logic, data, and security strategy, Python-based detection logic,+ automation scripts with a real-world edge — often with a visual twist ✨
+my projects  combine logic, data, Python-based detection, automation scripts, and real world edge with a visual twist.
+---
+
+> 📝 You’re welcome to reference or build upon my work — but all original scripts, logic, and research are copyright © sogars. Please credit appropriately.  
