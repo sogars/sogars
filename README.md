@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/tAo2Ryr.gif" alt="Shooting Star" width="100%" height="200">
+  <img src="https://i.imgur.com/Qu6djHE.gif" alt="Shooting Star" width="100%" height="200">
 </div>
 
 # 🌠 welcome to my GitHub ^_^
