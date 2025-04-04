@@ -13,4 +13,4 @@ my projects combine logic, data, Python-based detection, automation scripts, and
 
 ---
 
-> 📝 You’re welcome to reference or build upon my work — but all original scripts, logic, and research are copyright © sogars. Please credit appropriately.
+> You’re welcome to reference or build upon my work — but all original scripts, logic, and research are copyright © sogars. Please credit appropriately.
