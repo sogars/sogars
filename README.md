@@ -5,9 +5,9 @@
 # 🌠 welcome to my GitHub ^_^
 
 This space is for cybersecurity engineering, open-source threat intelligence, and research + exploration.  
-I am always open to collaboration across galaxies 🌌
+I am always open to collaboration
 
-my background: 🛸 Threat Detection Engineering | Geopolitical Risk | SOAR + Security Automation | 🛰 OSINT + threat research
+my background: 🛸 Threat Detection Engineering | geopolitical risk | SOAR + security automation | OSINT + threat research
 
 my projects combine logic, data, Python-based detection, automation scripts, and real-world edge with a visual twist.
 
