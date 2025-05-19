@@ -7,7 +7,7 @@
 
 I am always open to collaboration
 ____
-my professional background: 🛸 Threat Detection Engineering | geopolitical risk | SOAR + security automation | OSINT + threat research
+my professional background: 🛸 threat detection  | geopolitical risk | SOAR + security automation | OSINT + threat research
 
 my projects combine logic, data, Python-based detection, automation scripts, and real-world edge with a visual twist :]
 
