@@ -2,8 +2,8 @@
   <img src="https://i.imgur.com/Qu6djHE.gif" alt="Shooting Star" width="100%" height="200">
 </div>
 
-# 🌠 thank you for checking out my GitHub ^_^
-| open-source threat intelligence | research | exploration | 
+# thank you for checking out my GitHub ^_^
+| OSINT | threat intelligence | research | exploration | 
 
 I am always open to collaboration
 ____
